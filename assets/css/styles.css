@@ -2,3 +2,9 @@
     margin: 0;
     padding: 0;
 }
+.heading:hover {
+    background-color: red;
+}
+.heading {
+    transition: all 1000ms ease-in-out;
+}
